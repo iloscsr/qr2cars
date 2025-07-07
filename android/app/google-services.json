@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048778067784",
+    "project_id": "qr2cars",
+    "storage_bucket": "qr2cars.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048778067784:android:c15151c2ee0fb4506cad7d",
+        "android_client_info": {
+          "package_name": "com.qr2cars.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048778067784-ogfgmstka61mr1hgp4dugosthpr1akp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qr2cars.app",
+            "certificate_hash": "0bb08a089faa2ef52778457f27edcba45bcad7d2"
+          }
+        },
+        {
+          "client_id": "1048778067784-nm9qh1fmkbce8bov1gaa7eapbqnopsns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBARhwDSFTMgfeWjZyWcrRhqQ83_kc9dqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048778067784-nm9qh1fmkbce8bov1gaa7eapbqnopsns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
